@@ -1,5 +1,4 @@
-# fastify_prisma_restapi
-
+# fastify_prisma
 Basic RESTful API built with fastify, prisma, postgresql, zod &amp; typescript
 
 Functionalities include CRUD for user and product storage in Postgres DB.
@@ -18,7 +17,7 @@ or
 npm install
 ```
 
-### Try out the development process with:
+### Start the development server: 
 
 ```
 yarn dev
